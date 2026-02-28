@@ -1,29 +1,30 @@
-<div class="container">
-  <div class="row">
+<div class="container d-flex flex-column justify-content-center align-items-center" style="min-height: 80vh;">
+  <div class="row w-100">
     <div class="col text-center">
       <div>
         <h1 class="font-weight-bold gf-text-wrap-balance intro" i18n>
           RESEARCH PORTFOLIO
         </h1>
       </div>
-      <p class="gf-text-wrap-balance lead mb-4" i18n>
+      <p class="gf-text-wrap-balance lead mb-5" style="color: #a1a1aa; font-size: 1.25rem;" i18n>
         Private Intelligence & Wealth Mapping Dashboard.
       </p>
+
+      <div class="button-container mb-5 row mt-4">
+        <div class="align-items-center col d-flex justify-content-center">
+          @if (hasPermissionToCreateUser) {
+          <a color="primary" i18n mat-flat-button [routerLink]="routerLinkRegister"
+            style="padding: 24px 36px; border-radius: 50px; font-weight: 600;">Get Started</a>
+          }
+          @if (hasPermissionForDemo) {
+          @if (hasPermissionToCreateUser) {
+          <div class="mx-4 text-muted" i18n>or</div>
+          }
+          <a i18n mat-stroked-button [routerLink]="routerLinkDemo"
+            style="padding: 24px 36px; border-radius: 50px; border-color: rgba(255,255,255,0.15);">Live Demo</a>
+          }
+        </div>
+      </div>
     </div>
   </div>
 </div>
-
-<div class="container">
-  <div class="button-container mb-5 row">
-    <div class="align-items-center col d-flex justify-content-center">
-      @if (hasPermissionToCreateUser) {
-      <a color="primary" i18n mat-flat-button [routerLink]="routerLinkRegister">Get Started</a>
-      }
-      @if (hasPermissionForDemo) {
-      @if (hasPermissionToCreateUser) {
-      <div class="mx-3 text-muted" i18n>or</div>
-      }
-      <a i18n mat-stroked-button [routerLink]="routerLinkDemo">Live Demo</a>
-      }
-    </div>
-  </div>
