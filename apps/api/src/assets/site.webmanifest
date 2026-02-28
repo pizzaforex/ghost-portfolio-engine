@@ -1,7 +1,10 @@
 {
-  "background_color": "#FFFFFF",
-  "categories": ["finance", "utilities"],
-  "description": "Open Source Wealth Management Software",
+  "background_color": "#050505",
+  "categories": [
+    "finance",
+    "utilities"
+  ],
+  "description": "Private Intelligence Dashboard",
   "display": "standalone",
   "icons": [
     {
@@ -22,10 +25,10 @@
       "type": "image/png"
     }
   ],
-  "name": "Ghostfolio",
+  "name": "Research Portfolio",
   "orientation": "portrait",
-  "short_name": "Ghostfolio",
+  "short_name": "Research",
   "start_url": "/${languageCode}/",
-  "theme_color": "#FFFFFF",
+  "theme_color": "#050505",
   "url": "${rootUrl}"
 }

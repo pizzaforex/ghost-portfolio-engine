@@ -1,10 +1,12 @@
 {
   "/api": {
-    "target": "http://0.0.0.0:3333",
-    "secure": false
+    "target": "https://46.225.228.175.nip.io",
+    "secure": false,
+    "changeOrigin": true
   },
   "/assets": {
-    "target": "http://0.0.0.0:3333",
-    "secure": false
+    "target": "https://46.225.228.175.nip.io",
+    "secure": false,
+    "changeOrigin": true
   }
 }
