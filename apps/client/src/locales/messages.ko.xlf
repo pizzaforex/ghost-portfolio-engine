@@ -184,7 +184,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/register/register-page.html</context>
-          <context context-type="linenumber">28</context>
+          <context context-type="linenumber">15</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/register/user-account-registration-dialog/user-account-registration-dialog.html</context>
@@ -216,7 +216,7 @@
         <target state="translated">거래에는 상당한 손실 위험이 따를 수 있습니다. 단기적으로 필요할 수 있는 자금의 투자는 권장되지 않습니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">182</context>
+          <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1965206604774400" datatype="html">
@@ -388,7 +388,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">139</context>
+          <context context-type="linenumber">135</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/accounts-table/accounts-table.component.html</context>
@@ -444,7 +444,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">145</context>
+          <context context-type="linenumber">141</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/accounts-table/accounts-table.component.html</context>
@@ -464,15 +464,15 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">205</context>
+          <context context-type="linenumber">201</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">208</context>
+          <context context-type="linenumber">204</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">211</context>
+          <context context-type="linenumber">207</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/account-balances/account-balances.component.html</context>
@@ -624,7 +624,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">155</context>
+          <context context-type="linenumber">151</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/i18n.ts</context>
@@ -720,7 +720,7 @@
         <target state="translated">날짜</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">161</context>
+          <context context-type="linenumber">157</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/account-balances/account-balances.component.html</context>
@@ -1024,7 +1024,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">275</context>
+          <context context-type="linenumber">271</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7504169991280318133" datatype="html">
@@ -1068,7 +1068,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">124</context>
+          <context context-type="linenumber">120</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8122024350760043460" datatype="html">
@@ -1364,7 +1364,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">231</context>
+          <context context-type="linenumber">137</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2395205455607568422" datatype="html">
@@ -1448,11 +1448,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">44</context>
+          <context context-type="linenumber">28</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">258</context>
+          <context context-type="linenumber">151</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/resources/personal-finance-tools/product-page.component.ts</context>
@@ -1483,12 +1483,12 @@
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5924141452953678982" datatype="html">
+      <trans-unit id="5807410346394202995" datatype="html">
         <source>About Portfolio</source>
         <target state="translated">고스트폴리오 소개</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">326</context>
+          <context context-type="linenumber">185</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/about/overview/about-overview-page.html</context>
@@ -1500,15 +1500,19 @@
         <target state="translated">로그인</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">422</context>
+          <context context-type="linenumber">236</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.ts</context>
-          <context context-type="linenumber">297</context>
+          <context context-type="linenumber">299</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/login-with-access-token-dialog/login-with-access-token-dialog.html</context>
           <context context-type="linenumber">79</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
+          <context context-type="linenumber">17</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/common/src/lib/routes/routes.ts</context>
@@ -1524,7 +1528,7 @@
         <target state="translated">이런! 잘못된 보안 토큰.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.ts</context>
-          <context context-type="linenumber">312</context>
+          <context context-type="linenumber">314</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/user-account-access/user-account-access.component.ts</context>
@@ -1587,7 +1591,7 @@
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2112958051825467900" datatype="html">
+      <trans-unit id="1321018891637722533" datatype="html">
         <source>Welcome to Portfolio</source>
         <target state="translated">Portfolio에 오신 것을 환영합니다</target>
         <context-group purpose="location">
@@ -1743,14 +1747,6 @@
           <context context-type="linenumber">32</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">47</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">348</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/import-activities-dialog/import-activities-dialog.html</context>
           <context context-type="linenumber">97</context>
         </context-group>
@@ -1768,7 +1764,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/register/register-page.html</context>
-          <context context-type="linenumber">33</context>
+          <context context-type="linenumber">20</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/webauthn/webauthn-page.html</context>
@@ -1856,7 +1852,7 @@
         <target state="translated">자산</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/portfolio-summary/portfolio-summary.component.html</context>
-          <context context-type="linenumber">230</context>
+          <context context-type="linenumber">233</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4993097165849036956" datatype="html">
@@ -1864,7 +1860,7 @@
         <target state="translated">매수 가능 금액</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/portfolio-summary/portfolio-summary.component.html</context>
-          <context context-type="linenumber">245</context>
+          <context context-type="linenumber">248</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2105957921933737059" datatype="html">
@@ -1872,7 +1868,7 @@
         <target state="translated">분석에서 제외됨</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/portfolio-summary/portfolio-summary.component.html</context>
-          <context context-type="linenumber">271</context>
+          <context context-type="linenumber">274</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5003799027167349722" datatype="html">
@@ -1880,7 +1876,7 @@
         <target state="translated">부채</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/portfolio-summary/portfolio-summary.component.html</context>
-          <context context-type="linenumber">299</context>
+          <context context-type="linenumber">302</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/features/features-page.html</context>
@@ -1892,7 +1888,7 @@
         <target state="translated">순자산</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/portfolio-summary/portfolio-summary.component.html</context>
-          <context context-type="linenumber">321</context>
+          <context context-type="linenumber">324</context>
         </context-group>
       </trans-unit>
       <trans-unit id="293512063893966488" datatype="html">
@@ -1900,7 +1896,7 @@
         <target state="translated">연환산 성과</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/portfolio-summary/portfolio-summary.component.html</context>
-          <context context-type="linenumber">335</context>
+          <context context-type="linenumber">338</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5403336912114537863" datatype="html">
@@ -1936,7 +1932,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">189</context>
+          <context context-type="linenumber">185</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/activities-table/activities-table.component.html</context>
@@ -1963,7 +1959,7 @@
           <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7827737332834169968" datatype="html">
+      <trans-unit id="313049030474246653" datatype="html">
         <source>Upgrade to Portfolio Premium today and gain access to exclusive features to enhance your investment experience:</source>
         <target state="translated">지금 Portfolio 프리미엄으로 업그레이드하고, 투자 경험을 향상시키는 독점 기능을 이용하세요:</target>
         <context-group purpose="location">
@@ -2100,7 +2096,7 @@
         <target state="translated">업그레이드 계획</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">193</context>
+          <context context-type="linenumber">109</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/subscription-interstitial-dialog/subscription-interstitial-dialog.html</context>
@@ -2132,7 +2128,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">363</context>
+          <context context-type="linenumber">362</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7377728350294749129" datatype="html">
@@ -2144,7 +2140,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">375</context>
+          <context context-type="linenumber">374</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8768104874317770689" datatype="html">
@@ -2156,7 +2152,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">385</context>
+          <context context-type="linenumber">384</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7304247106520037555" datatype="html">
@@ -2168,7 +2164,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">409</context>
+          <context context-type="linenumber">408</context>
         </context-group>
       </trans-unit>
       <trans-unit id="366169681580494481" datatype="html">
@@ -2188,7 +2184,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">415</context>
+          <context context-type="linenumber">414</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4039692315328513907" datatype="html">
@@ -2519,18 +2515,6 @@
         <source>About</source>
         <target state="translated">소개</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">20</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">124</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">375</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/about/overview/about-overview-page.routes.ts</context>
           <context context-type="linenumber">12</context>
         </context-group>
@@ -2542,10 +2526,6 @@
       <trans-unit id="7136888919962092730" datatype="html">
         <source>Changelog</source>
         <target state="translated">변경 내역</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">27</context>
-        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/about/changelog/changelog-page.html</context>
           <context context-type="linenumber">4</context>
@@ -2559,10 +2539,6 @@
         <source>License</source>
         <target state="translated">특허</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">39</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/about/license/license-page.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
@@ -2574,10 +2550,6 @@
       <trans-unit id="8439955599488894226" datatype="html">
         <source>Privacy Policy</source>
         <target state="translated">개인 정보 보호 정책</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">55</context>
-        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/about/privacy-policy/privacy-policy-page.html</context>
           <context context-type="linenumber">4</context>
@@ -2632,11 +2604,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">58</context>
+          <context context-type="linenumber">35</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">268</context>
+          <context context-type="linenumber">154</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/holding-detail-dialog/holding-detail-dialog.html</context>
@@ -2720,11 +2692,11 @@
         <target state="translated">관리자 제어</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">74</context>
+          <context context-type="linenumber">44</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">289</context>
+          <context context-type="linenumber">162</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/common/src/lib/routes/routes.ts</context>
@@ -2776,11 +2748,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">30</context>
+          <context context-type="linenumber">21</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">248</context>
+          <context context-type="linenumber">148</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/holding-detail-dialog/holding-detail-dialog.html</context>
@@ -2788,11 +2760,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/admin/admin-page.component.ts</context>
-          <context context-type="linenumber">48</context>
+          <context context-type="linenumber">45</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/resources/resources-page.component.ts</context>
-          <context context-type="linenumber">30</context>
+          <context context-type="linenumber">29</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/common/src/lib/routes/routes.ts</context>
@@ -2807,56 +2779,20 @@
         <source>Blog</source>
         <target state="translated">블로그</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">24</context>
+          <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">58</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2021/07/hallo-ghostfolio/hallo-ghostfolio-page.html</context>
-          <context context-type="linenumber">205</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2021/07/hello-ghostfolio/hello-ghostfolio-page.html</context>
-          <context context-type="linenumber">185</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2022/01/first-months-in-open-source/first-months-in-open-source-page.html</context>
-          <context context-type="linenumber">185</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2022/07/ghostfolio-meets-internet-identity/ghostfolio-meets-internet-identity-page.html</context>
-          <context context-type="linenumber">185</context>
+          <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">171</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/blog/2022/07/how-do-i-get-my-finances-in-order/how-do-i-get-my-finances-in-order-page.html</context>
           <context context-type="linenumber">210</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2022/08/500-stars-on-github/500-stars-on-github-page.html</context>
-          <context context-type="linenumber">197</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2022/10/hacktoberfest-2022/hacktoberfest-2022-page.html</context>
-          <context context-type="linenumber">182</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2022/11/black-friday-2022/black-friday-2022-page.html</context>
-          <context context-type="linenumber">142</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/blog/2022/12/the-importance-of-tracking-your-personal-finances/the-importance-of-tracking-your-personal-finances-page.html</context>
           <context context-type="linenumber">169</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2023/01/ghostfolio-auf-sackgeld-vorgestellt/ghostfolio-auf-sackgeld-vorgestellt-page.html</context>
-          <context context-type="linenumber">179</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2023/02/ghostfolio-meets-umbrel/ghostfolio-meets-umbrel-page.html</context>
-          <context context-type="linenumber">203</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2023/03/1000-stars-on-github/1000-stars-on-github-page.html</context>
-          <context context-type="linenumber">254</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/blog/2023/05/unlock-your-financial-potential-with-ghostfolio/unlock-your-financial-potential-with-ghostfolio-page.html</context>
@@ -2865,42 +2801,6 @@
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/blog/2023/07/exploring-the-path-to-fire/exploring-the-path-to-fire-page.html</context>
           <context context-type="linenumber">244</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2023/08/ghostfolio-joins-oss-friends/ghostfolio-joins-oss-friends-page.html</context>
-          <context context-type="linenumber">155</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2023/09/ghostfolio-2/ghostfolio-2-page.html</context>
-          <context context-type="linenumber">274</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2023/09/hacktoberfest-2023/hacktoberfest-2023-page.html</context>
-          <context context-type="linenumber">184</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2023/11/black-week-2023/black-week-2023-page.html</context>
-          <context context-type="linenumber">149</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2023/11/hacktoberfest-2023-debriefing/hacktoberfest-2023-debriefing-page.html</context>
-          <context context-type="linenumber">271</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2024/09/hacktoberfest-2024/hacktoberfest-2024-page.html</context>
-          <context context-type="linenumber">190</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2024/11/black-weeks-2024/black-weeks-2024-page.html</context>
-          <context context-type="linenumber">168</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2025/09/hacktoberfest-2025/hacktoberfest-2025-page.html</context>
-          <context context-type="linenumber">189</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/blog/2025/11/black-weeks-2025/black-weeks-2025-page.html</context>
-          <context context-type="linenumber">147</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/blog/blog-page.html</context>
@@ -2923,12 +2823,12 @@
           <context context-type="linenumber">512</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5152858168588361831" datatype="html">
+      <trans-unit id="2185910379475551949" datatype="html">
         <source>Discover the latest Portfolio updates and insights on personal finance</source>
         <target state="translated">개인 금융에 대한 최신 Portfolio 업데이트와 통찰력을 알아보세요</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/blog/blog-page.html</context>
-          <context context-type="linenumber">7</context>
+          <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7407412980480383749" datatype="html">
@@ -2936,16 +2836,12 @@
         <target state="translated">이미 로그인되어 있으므로 데모 계정에 접근할 수 없습니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/demo/demo-page.component.ts</context>
-          <context context-type="linenumber">35</context>
+          <context context-type="linenumber">32</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5308814695487483464" datatype="html">
         <source>Frequently Asked Questions (FAQ)</source>
         <target state="translated">자주 묻는 질문</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">33</context>
-        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/about/overview/about-overview-page.html</context>
           <context context-type="linenumber">189</context>
@@ -2963,23 +2859,23 @@
         <source>Features</source>
         <target state="translated">특징</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">29</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">361</context>
+          <context context-type="linenumber">207</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/features/features-page.html</context>
           <context context-type="linenumber">5</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">libs/common/src/lib/routes/routes.ts</context>
           <context context-type="linenumber">256</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6823552682337895854" datatype="html">
+      <trans-unit id="158867759225904323" datatype="html">
         <source>Check out the numerous features of Portfolio to manage your wealth</source>
         <target state="translated">자산 관리를 위한 Portfolio의 다양한 기능을 확인해보세요</target>
         <context-group purpose="location">
@@ -3025,6 +2921,14 @@
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/features/features-page.html</context>
           <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6118122111355970273" datatype="html">
+        <source>Private Intelligence &amp; Wealth Mapping Dashboard.</source>
+        <target state="new">Private Intelligence &amp; Wealth Mapping Dashboard.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
+          <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7277907068479697489" datatype="html">
@@ -3088,19 +2992,11 @@
         <target state="translated">시작하기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">433</context>
+          <context context-type="linenumber">242</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/features/features-page.html</context>
           <context context-type="linenumber">321</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">41</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">344</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/pricing/pricing-page.html</context>
@@ -3163,12 +3059,8 @@
           <context context-type="linenumber">378</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">11</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">408</context>
+          <context context-type="linenumber">230</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/home-market/home-market.html</context>
@@ -3184,7 +3076,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/resources/resources-page.component.ts</context>
-          <context context-type="linenumber">40</context>
+          <context context-type="linenumber">39</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/common/src/lib/routes/routes.ts</context>
@@ -3227,22 +3119,6 @@
           <context context-type="linenumber">246</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="387656060598558647" datatype="html">
-        <source>Manage your wealth like a boss</source>
-        <target state="translated">전문가처럼 자산을 관리하세요</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">6</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="9187466252216812080" datatype="html">
-        <source>Portfolio is a privacy-first, open source dashboard for your personal finances. Break down your asset allocation, know your net worth and make solid, data-driven investment decisions.</source>
-        <target state="translated">Portfolio는 프라이버시를 최우선으로 하는 오픈 소스 개인 재무 대시보드입니다. 자산배분을 분석하고 순자산을 파악하여, 데이터 기반의 합리적인 투자 의사결정을 내리세요.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">10</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="9187635907883145155" datatype="html">
         <source>Edit access</source>
         <target state="translated">접근 권한 편집</target>
@@ -3251,21 +3127,9 @@
           <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4758973823150843482" datatype="html">
-        <source>Monthly Active Users</source>
-        <target state="translated">월간 활성 사용자</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">69</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="5837756048595583187" datatype="html">
         <source>Stars on GitHub</source>
         <target state="translated">깃허브 스타</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">87</context>
-        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/open/open-page.html</context>
           <context context-type="linenumber">103</context>
@@ -3275,76 +3139,8 @@
         <source>Pulls on Docker Hub</source>
         <target state="translated">도커 허브에서 가져오기</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">105</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/open/open-page.html</context>
           <context context-type="linenumber">117</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="5478238658031278234" datatype="html">
-        <source>As seen in</source>
-        <target state="translated">에서 볼 수 있듯이</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">114</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="6522760526959463029" datatype="html">
-        <source>Protect your <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>assets<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. Refine your <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>personal investment strategy<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
-        <target state="translated"><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>자산<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>을 보호하세요. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>개인 투자 전략<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>을 정교화하세요.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">124</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="541335210822318978" datatype="html">
-        <source>Portfolio empowers busy people to keep track of stocks, ETFs or cryptocurrencies without being tracked.</source>
-        <target state="translated">Portfolio는 바쁜 사람들이 추적당하지 않으면서도 주식, ETF, 암호화폐를 손쉽게 추적할 수 있도록 돕습니다.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">128</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="3232844572870775893" datatype="html">
-        <source>360° View</source>
-        <target state="translated">360° 보기</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">138</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="9080883163506310004" datatype="html">
-        <source>Get the full picture of your personal finances across multiple platforms.</source>
-        <target state="translated">여러 플랫폼에 걸쳐 개인 재정에 대한 전체 그림을 얻으세요.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">141</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="3761378562575062803" datatype="html">
-        <source>Web3 Ready</source>
-        <target state="translated">웹3 준비</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">149</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="6957860293614395750" datatype="html">
-        <source>Use Portfolio anonymously and own your financial data.</source>
-        <target state="translated">익명으로 Portfolio를 사용하고 금융 데이터를 소유하세요.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">152</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="8982834794400749621" datatype="html">
-        <source>Benefit from continuous improvements through a strong community.</source>
-        <target state="translated">강력한 커뮤니티를 통해 지속적인 개선의 혜택을 누리세요.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">162</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8984201769958269296" datatype="html">
@@ -3355,134 +3151,6 @@
           <context context-type="linenumber">84</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="174909485329693389" datatype="html">
-        <source>Why <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Portfolio<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>?</source>
-        <target state="translated">왜 <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Portfolio<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>인가요?</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">170</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="8071481725417955188" datatype="html">
-        <source>Portfolio is for you if you are...</source>
-        <target state="translated">Portfolio는 당신을 위한 것입니다...</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">172</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1018934700505948739" datatype="html">
-        <source>trading stocks, ETFs or cryptocurrencies on multiple platforms</source>
-        <target state="translated">여러 플랫폼에서 주식, ETF 또는 암호화폐 거래</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">178</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="7505860477547692498" datatype="html">
-        <source>pursuing a buy &amp; hold strategy</source>
-        <target state="translated">매수 후 보유 전략을 추구</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">184</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="8307803882423073224" datatype="html">
-        <source>interested in getting insights of your portfolio composition</source>
-        <target state="translated">포트폴리오 구성에 대한 인사이트가 필요하신가요</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">189</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2294375366188369184" datatype="html">
-        <source>valuing privacy and data ownership</source>
-        <target state="translated">개인 정보 보호 및 데이터 소유권을 소중히 여깁니다.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">194</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1223835682032238688" datatype="html">
-        <source>into minimalism</source>
-        <target state="translated">미니멀리즘으로</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">197</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="5446575150736207054" datatype="html">
-        <source>caring about diversifying your financial resources</source>
-        <target state="translated">재정 자원을 다양화하는 데 관심을 가짐</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">201</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="156749049426380467" datatype="html">
-        <source>interested in financial independence</source>
-        <target state="translated">재정적 독립에 관심</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">205</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="3515552433025974482" datatype="html">
-        <source>saying no to spreadsheets in <x id="INTERPOLATION" equiv-text="{{ currentYear }}"/></source>
-        <target state="translated"><x id="INTERPOLATION" equiv-text="{{ currentYear }}"/>의 스프레드시트에 거부 의사 표시</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">209</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2155938452840548008" datatype="html">
-        <source>still reading this list</source>
-        <target state="translated">아직도 이 목록을 읽고 있어요</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">212</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4462291849266824923" datatype="html">
-        <source>Learn more about Portfolio</source>
-        <target state="translated">Portfolio에 대해 자세히 알아보기</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">217</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2757886126432101326" datatype="html">
-        <source>What our <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>users<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> are saying</source>
-        <target state="translated"><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>사용자<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>의 이야기</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">226</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1398112848362226140" datatype="html">
-        <source>Members from around the globe are using <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;pricing&quot;&gt;"/><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Portfolio Premium<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target state="translated">전 세계의 사용자들이 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;pricing&quot;&gt;"/><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Portfolio 프리미엄<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>을 사용하고 있습니다</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">265</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="8065260392868074625" datatype="html">
-        <source>How does <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Portfolio<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> work?</source>
-        <target state="translated"><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Portfolio<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>는 어떻게 동작하나요?</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">282</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="800818232811038830" datatype="html">
-        <source>Get started in only 3 steps</source>
-        <target state="translated">단 3단계만으로 시작하세요</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">284</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="8014012170270529279" datatype="html">
         <source>less than</source>
         <target state="translated">미만</target>
@@ -3491,47 +3159,7 @@
           <context context-type="linenumber">129</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="1723183824711107064" datatype="html">
-        <source>Sign up anonymously*</source>
-        <target state="translated">익명으로 가입*</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">290</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="5162191879955744040" datatype="html">
-        <source><x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>* no e-mail address nor credit card required<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></source>
-        <target state="translated"><x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>* 이메일 주소 및 신용카드 정보가 필요하지 않습니다<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">292</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="6269184672981438457" datatype="html">
-        <source>Add any of your historical transactions</source>
-        <target state="translated">과거 거래를 추가하세요.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">304</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2375563507716113186" datatype="html">
-        <source>Get valuable insights of your portfolio composition</source>
-        <target state="translated">포트폴리오 구성에 대한 유의미한 인사이트를 확인하세요</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">316</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="9186557608327946974" datatype="html">
-        <source>Are <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>you<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> ready?</source>
-        <target state="translated"><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>준비<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>되셨나요?</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">330</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="3824165347269033834" datatype="html">
+      <trans-unit id="5280876871099147544" datatype="html">
         <source>At Portfolio, transparency is at the core of our values. We publish the source code as <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/pizzaforex/marketview&quot; title=&quot;Find Portfolio on GitHub&quot; &gt;"/>open source software<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/> (OSS) under the <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://www.gnu.org/licenses/agpl-3.0.html&quot; title=&quot;GNU Affero General Public License&quot; &gt;"/>AGPL-3.0 license<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/> and we openly share aggregated key metrics of the platform’s operational status.</source>
         <target state="translated">Portfolio는 투명성을 핵심 가치로 삼습니다. 우리는 소스 코드를 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/pizzaforex/marketview&quot; title=&quot;Find Portfolio on GitHub&quot; &gt;"/>오픈 소스 소프트웨어<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/>로 공개하며, <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://www.gnu.org/licenses/agpl-3.0.html&quot; title=&quot;GNU Affero General Public License&quot; &gt;"/>AGPL-3.0 라이선스<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/> 하에 배포합니다. 또한 플랫폼 운영 현황에 대한 집계된 핵심 지표를 공개적으로 공유합니다.</target>
         <context-group purpose="location">
@@ -3548,8 +3176,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4257439615478050183" datatype="html">
-        <source>Portfolio Status</source>
-        <target state="translated">고스트폴리오 상태</target>
+        <source>Ghostfolio Status</source>
+        <target state="new">고스트폴리오 상태</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/about/overview/about-overview-page.html</context>
           <context context-type="linenumber">62</context>
@@ -3764,7 +3392,7 @@
         <target state="translated">현금 잔액 업데이트</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">112</context>
+          <context context-type="linenumber">108</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1599232533055023845" datatype="html">
@@ -3772,7 +3400,7 @@
         <target state="translated">단가</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">214</context>
+          <context context-type="linenumber">210</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/activities-table/activities-table.component.html</context>
@@ -4128,7 +3756,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/portfolio-summary/portfolio-summary.component.html</context>
-          <context context-type="linenumber">369</context>
+          <context context-type="linenumber">372</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/features/features-page.html</context>
@@ -4136,7 +3764,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">202</context>
+          <context context-type="linenumber">198</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/analysis/analysis-page.component.ts</context>
@@ -4160,7 +3788,7 @@
         <target state="translated">보증금</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/fire-calculator/fire-calculator.component.ts</context>
-          <context context-type="linenumber">377</context>
+          <context context-type="linenumber">385</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6762743264882388498" datatype="html">
@@ -4255,20 +3883,16 @@
         <source>Pricing</source>
         <target state="translated">가격</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">49</context>
+          <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">68</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">105</context>
+          <context context-type="linenumber">177</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">313</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">389</context>
+          <context context-type="linenumber">217</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/pricing/pricing-page.routes.ts</context>
@@ -4291,7 +3915,7 @@
           <context context-type="linenumber">4</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6962217007874959362" datatype="html">
+      <trans-unit id="797877567434165035" datatype="html">
         <source>Our official Portfolio Premium cloud offering is the easiest way to get started. Due to the time it saves, this will be the best option for most people. Revenue is used to cover operational costs for the hosting infrastructure and professional data providers, and to fund ongoing development.</source>
         <target state="translated">공식 Portfolio 프리미엄 클라우드 서비스는 시작하는 가장 쉬운 방법입니다. 시간이 절약되므로 이는 대부분의 사람들에게 최선의 선택이 될 것입니다. 수익은 호스팅 인프라 및 전문 데이터 제공업체의 운영 비용을 충당하고 지속적인 개발 자금을 조달하는 데 사용됩니다.</target>
         <context-group purpose="location">
@@ -4299,7 +3923,7 @@
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8362400188600186131" datatype="html">
+      <trans-unit id="8689767028582328520" datatype="html">
         <source>If you prefer to run Portfolio on your own infrastructure, please find the source code and further instructions on <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/pizzaforex/marketview&quot;&gt;"/>GitHub<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
         <target state="translated">자체 인프라에서 Portfolio를 운영하고 싶다면, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/pizzaforex/marketview&quot;&gt;"/>깃허브<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>에서 소스 코드와 추가 안내를 확인하세요.</target>
         <context-group purpose="location">
@@ -4307,7 +3931,7 @@
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="195913158506780337" datatype="html">
+      <trans-unit id="40490525801868521" datatype="html">
         <source>For tech-savvy investors who prefer to run Portfolio on their own infrastructure.</source>
         <target state="translated">자체 인프라에서 Portfolio를 실행하기를 선호하는 기술에 정통한 투자자를 위한 것입니다.</target>
         <context-group purpose="location">
@@ -4399,7 +4023,7 @@
           <context context-type="linenumber">119</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4362270378699380187" datatype="html">
+      <trans-unit id="3182260047792022819" datatype="html">
         <source>Fully managed Portfolio cloud offering.</source>
         <target state="translated">완전 관리형 Portfolio 클라우드 제품.</target>
         <context-group purpose="location">
@@ -4432,7 +4056,7 @@
         <target state="translated">플랜 갱신</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">191</context>
+          <context context-type="linenumber">107</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/user-account-membership/user-account-membership.html</context>
@@ -4495,7 +4119,7 @@
           <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="201073452973037511" datatype="html">
+      <trans-unit id="4859007649574746237" datatype="html">
         <source>Portfolio empowers you to keep track of your wealth.</source>
         <target state="translated">Portfolio는 귀하의 재산을 추적할 수 있도록 해줍니다.</target>
         <context-group purpose="location">
@@ -4520,7 +4144,7 @@
         <target state="translated">구글로 계속하기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/register/register-page.html</context>
-          <context context-type="linenumber">43</context>
+          <context context-type="linenumber">23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8738732372986673558" datatype="html">
@@ -4564,15 +4188,15 @@
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="9040028765832531851" datatype="html">
-        <source>This overview page features a curated collection of personal finance tools compared to the open source alternative <x id="START_LINK" ctype="x-a" equiv-text="&lt;a [routerLink]=&quot;routerLinkAbout&quot;&gt;"/>Portfolio<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. If you value transparency, data privacy, and community collaboration, Portfolio provides an excellent opportunity to take control of your financial management.</source>
-        <target state="translated">이 개요 페이지에는 오픈 소스 대안인 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a [routerLink]=&quot;routerLinkAbout&quot;&gt;"/>Portfolio<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>와 비교하여 엄선된 개인 금융 도구 컬렉션이 포함되어 있습니다. 투명성, 데이터 개인 정보 보호 및 커뮤니티 협업을 중요하게 생각한다면 Portfolio는 재무 관리를 제어할 수 있는 훌륭한 기회를 제공합니다.</target>
+      <trans-unit id="6079956883524388098" datatype="html">
+        <source>This overview page features a curated collection of personal finance tools compared to the open source alternative <x id="START_LINK" ctype="x-a" equiv-text="&lt;a [routerLink]=&quot;routerLinkAbout&quot;&gt;"/>Portfolio<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. If you value transparency, data privacy, and community collaboration, Ghostfolio provides an excellent opportunity to take control of your financial management.</source>
+        <target state="new">이 개요 페이지에는 오픈 소스 대안인 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a [routerLink]=&quot;routerLinkAbout&quot;&gt;"/>Portfolio<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>와 비교하여 엄선된 개인 금융 도구 컬렉션이 포함되어 있습니다. 투명성, 데이터 개인 정보 보호 및 커뮤니티 협업을 중요하게 생각한다면 Portfolio는 재무 관리를 제어할 수 있는 훌륭한 기회를 제공합니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/resources/personal-finance-tools/personal-finance-tools-page.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="1509032395181307486" datatype="html">
+      <trans-unit id="4073591712299545306" datatype="html">
         <source>Explore the links below to compare a variety of personal finance tools with Portfolio.</source>
         <target state="translated">Portfolio와 다양한 개인 금융 도구를 비교하려면 아래 링크를 탐색하십시오.</target>
         <context-group purpose="location">
@@ -4596,7 +4220,7 @@
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5100352603258735382" datatype="html">
+      <trans-unit id="3369102146103040591" datatype="html">
         <source>Are you looking for an open source alternative to <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/>? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a [routerLink]=&quot;routerLinkAbout&quot;&gt;"/>Portfolio<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/> is a powerful portfolio management tool that provides individuals with a comprehensive platform to track, analyze, and optimize their investments. Whether you are an experienced investor or just starting out, Portfolio offers an intuitive user interface and a <x id="START_LINK_1" equiv-text="&lt;a [routerLink]=&quot;routerLinkFeatures&quot; &gt;"/>wide range of functionalities<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/> to help you make informed decisions and take control of your financial future.</source>
         <target state="translated"><x id="INTERPOLATION" equiv-text="{{ product2.name }}"/>에 대한 오픈소스 대안을 찾고 계십니까? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a [routerLink]=&quot;routerLinkAbout&quot;&gt;"/>Portfolio<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/>는 개인에게 투자를 추적, 분석, 최적화할 수 있는 포괄적인 플랫폼을 제공하는 강력한 포트폴리오 관리 도구입니다. 숙련된 투자자이든 이제 막 시작한 투자자이든 Portfolio는 직관적인 사용자 인터페이스와 <x id="START_LINK_1" equiv-text="&lt;a [routerLink]=&quot;routerLinkFeatures&quot; &gt;"/>다양한 기능<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/>을 제공하여 정보에 입각한 결정을 내리고 재정적 미래를 관리하는 데 도움을 줍니다.</target>
         <context-group purpose="location">
@@ -4604,7 +4228,7 @@
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7314014538091101522" datatype="html">
+      <trans-unit id="3472225788940512476" datatype="html">
         <source>Portfolio is an open source software (OSS), providing a cost-effective alternative to <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/> making it particularly suitable for individuals on a tight budget, such as those <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;../en/blog/2023/07/exploring-the-path-to-fire&quot; &gt;"/>pursuing Financial Independence, Retire Early (FIRE)<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/>. By leveraging the collective efforts of a community of developers and personal finance enthusiasts, Portfolio continuously enhances its capabilities, security, and user experience.</source>
         <target state="translated">Portfolio는 오픈 소스 소프트웨어로, <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/>에 대한 비용 효율적인 대안을 제공하므로 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;../en/blog/2023/07/exploring-the-path-to-fire&quot; &gt;"/>재정적 독립, 조기 퇴직(FIRE)<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/>을 추구하는 사람과 같이 예산이 부족한 개인에게 특히 적합합니다. Portfolio는 개발자 커뮤니티와 개인 금융 애호가들의 공동 노력을 활용하여 기능, 보안 및 사용자 경험을 지속적으로 향상시킵니다.</target>
         <context-group purpose="location">
@@ -4612,7 +4236,7 @@
           <context context-type="linenumber">33</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2315631726271602419" datatype="html">
+      <trans-unit id="4615075660237292484" datatype="html">
         <source>Let’s dive deeper into the detailed Portfolio vs <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/> comparison table below to gain a thorough understanding of how Portfolio positions itself relative to <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/>. We will explore various aspects such as features, data privacy, pricing, and more, allowing you to make a well-informed choice for your personal requirements.</source>
         <target state="translated">Portfolio가 <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/>과 관련하여 어떻게 위치하는지 철저하게 이해하기 위해 아래의 자세한 Portfolio 대 <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/> 비교표를 자세히 살펴보겠습니다. 우리는 기능, 데이터 개인 정보 보호, 가격 등과 같은 다양한 측면을 탐색하여 귀하의 개인 요구 사항에 맞는 정보를 바탕으로 선택할 수 있도록 할 것입니다.</target>
         <context-group purpose="location">
@@ -4632,7 +4256,7 @@
           <context context-type="linenumber">172</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4909535316439940790" datatype="html">
+      <trans-unit id="2035627126971461186" datatype="html">
         <source>Portfolio vs <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/> comparison table</source>
         <target state="translated">Portfolio와 <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/> 비교표</target>
         <context-group purpose="location">
@@ -4796,7 +4420,7 @@
           <context context-type="linenumber">302</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2192861316878557060" datatype="html">
+      <trans-unit id="5522822377857979963" datatype="html">
         <source>Please note that the information provided in the Portfolio vs <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/> comparison table is based on our independent research and analysis. This website is not affiliated with <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/> or any other product mentioned in the comparison. As the landscape of personal finance tools evolves, it is essential to verify any specific details or changes directly from the respective product page. Data needs a refresh? Help us maintain accurate data on <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/pizzaforex/marketview&quot;&gt;"/>GitHub<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
         <target state="translated">Portfolio와 <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/> 비교표에 제공된 정보는 당사의 독립적인 연구 및 분석을 기반으로 한 것입니다. 이 웹사이트는 <x id="INTERPOLATION" equiv-text="{{ product2.name }}"/> 또는 비교에 언급된 다른 제품과 관련이 없습니다. 개인 금융 도구의 환경이 발전함에 따라 각 제품 페이지에서 직접 특정 세부 정보나 변경 사항을 확인하는 것이 중요합니다. 데이터를 새로 고쳐야 합니까? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/pizzaforex/marketview&quot;&gt;"/>깃허브<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>에서 정확한 데이터를 유지할 수 있도록 도와주세요.</target>
         <context-group purpose="location">
@@ -4812,7 +4436,7 @@
           <context context-type="linenumber">325</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="9169772418374159113" datatype="html">
+      <trans-unit id="2505309865047561534" datatype="html">
         <source>Effortlessly track, analyze, and visualize your wealth with Portfolio.</source>
         <target state="translated">Portfolio를 사용하여 귀하의 재산을 쉽게 추적, 분석 및 시각화하십시오.</target>
         <context-group purpose="location">
@@ -4848,16 +4472,12 @@
         <source>Resources</source>
         <target state="translated">리소스</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">14</context>
+          <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">51</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">88</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">301</context>
+          <context context-type="linenumber">167</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/resources/overview/resources-overview.component.html</context>
@@ -4900,12 +4520,12 @@
           <context context-type="linenumber">26</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3453373677180899990" datatype="html">
+      <trans-unit id="6709320430327029754" datatype="html">
         <source>My Portfolio</source>
         <target state="translated">나의 고스트폴리오</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">277</context>
+          <context context-type="linenumber">157</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/user-account/user-account-page.routes.ts</context>
@@ -4941,7 +4561,7 @@
         <target state="translated">정말로 이 계정 잔액을 삭제하시겠습니까?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/account-balances/account-balances.component.ts</context>
-          <context context-type="linenumber">120</context>
+          <context context-type="linenumber">113</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5388209493122807655" datatype="html">
@@ -5117,11 +4737,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/portfolio-summary/portfolio-summary.component.html</context>
-          <context context-type="linenumber">356</context>
+          <context context-type="linenumber">359</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/fire-calculator/fire-calculator.component.ts</context>
-          <context context-type="linenumber">387</context>
+          <context context-type="linenumber">395</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/i18n.ts</context>
@@ -5133,7 +4753,7 @@
         <target state="translated">저금</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/fire-calculator/fire-calculator.component.ts</context>
-          <context context-type="linenumber">397</context>
+          <context context-type="linenumber">405</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8927080808898221200" datatype="html">
@@ -5213,7 +4833,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">290</context>
+          <context context-type="linenumber">286</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/i18n.ts</context>
@@ -5245,7 +4865,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">309</context>
+          <context context-type="linenumber">305</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/i18n.ts</context>
@@ -5261,24 +4881,24 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3298117765569632011" datatype="html">
-        <source>Switch to Portfolio Premium or Portfolio Open Source easily</source>
-        <target state="translated">Portfolio 프리미엄 또는 Portfolio Open Source로 쉽게 전환하세요</target>
+        <source>Switch to Ghostfolio Premium or Ghostfolio Open Source easily</source>
+        <target state="new">Portfolio 프리미엄 또는 Portfolio Open Source로 쉽게 전환하세요</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/i18n.ts</context>
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1631940846690193897" datatype="html">
-        <source>Switch to Portfolio Premium easily</source>
-        <target state="translated">Portfolio 프리미엄으로 쉽게 전환하세요</target>
+        <source>Switch to Ghostfolio Premium easily</source>
+        <target state="new">Portfolio 프리미엄으로 쉽게 전환하세요</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/i18n.ts</context>
           <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1921273115613254799" datatype="html">
-        <source>Switch to Portfolio Open Source or Portfolio Basic easily</source>
-        <target state="translated">Portfolio Open Source 또는 Portfolio Basic으로 쉽게 전환하세요</target>
+        <source>Switch to Ghostfolio Open Source or Ghostfolio Basic easily</source>
+        <target state="new">Portfolio Open Source 또는 Portfolio Basic으로 쉽게 전환하세요</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/i18n.ts</context>
           <context context-type="linenumber">14</context>
@@ -5501,7 +5121,7 @@
         <target state="translated">요금</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">262</context>
+          <context context-type="linenumber">258</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/activities-table/activities-table.component.html</context>
@@ -5545,7 +5165,7 @@
         <target state="translated">현금</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/portfolio-summary/portfolio-summary.component.html</context>
-          <context context-type="linenumber">216</context>
+          <context context-type="linenumber">219</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/i18n.ts</context>
@@ -5953,7 +5573,7 @@
         <target state="translated">연초 현재</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">375</context>
+          <context context-type="linenumber">374</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3105754554141014845" datatype="html">
@@ -5961,7 +5581,7 @@
         <target state="translated">이번주 현재까지</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">367</context>
+          <context context-type="linenumber">366</context>
         </context-group>
       </trans-unit>
       <trans-unit id="358501326846847310" datatype="html">
@@ -5969,7 +5589,7 @@
         <target state="translated">월간 누계</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">371</context>
+          <context context-type="linenumber">370</context>
         </context-group>
       </trans-unit>
       <trans-unit id="399380803601269035" datatype="html">
@@ -5981,7 +5601,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">371</context>
+          <context context-type="linenumber">370</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7451343426685730864" datatype="html">
@@ -5993,7 +5613,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">367</context>
+          <context context-type="linenumber">366</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4602065467346820556" datatype="html">
@@ -6041,7 +5661,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">385</context>
+          <context context-type="linenumber">384</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7658073495909471632" datatype="html">
@@ -6053,7 +5673,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">409</context>
+          <context context-type="linenumber">408</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4252274043276232149" datatype="html">
@@ -6249,7 +5869,7 @@
           <context context-type="linenumber">316</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4941836956820527118" datatype="html">
+      <trans-unit id="7216587838546234116" datatype="html">
         <source>Do you really want to close your Portfolio account?</source>
         <target state="translated">정말로 Portfolio 계정을 폐쇄하시겠습니까?</target>
         <context-group purpose="location">
@@ -6278,14 +5898,6 @@
         <target state="translated">ETF 홀딩으로</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/allocations/allocations-page.html</context>
-          <context context-type="linenumber">333</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1637219853469577528" datatype="html">
-        <source>Join now <x id="START_BLOCK_IF" equiv-text="@if (hasPermissionForDemo) {"/> or check out the example account <x id="CLOSE_BLOCK_IF" equiv-text="}"/></source>
-        <target state="translated">지금 가입<x id="START_BLOCK_IF" equiv-text="@if (hasPermissionForDemo) {"/>하거나 예시 계정<x id="CLOSE_BLOCK_IF" equiv-text="}"/>을 확인하세요.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
           <context context-type="linenumber">333</context>
         </context-group>
       </trans-unit>
@@ -6380,10 +5992,6 @@
       <trans-unit id="1274247756500564795" datatype="html">
         <source>Community</source>
         <target state="translated">지역 사회</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">80</context>
-        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/user-account-settings/user-account-settings.html</context>
           <context context-type="linenumber">85</context>
@@ -6569,10 +6177,6 @@
         <source>Personal Finance</source>
         <target state="translated">개인 금융</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">7</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/resources/personal-finance-tools/product-page.component.ts</context>
           <context context-type="linenumber">93</context>
         </context-group>
@@ -6628,10 +6232,6 @@
       <trans-unit id="6984983607470794786" datatype="html">
         <source>Open Source</source>
         <target state="translated">오픈 소스</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">159</context>
-        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/resources/personal-finance-tools/product-page.component.ts</context>
           <context context-type="linenumber">91</context>
@@ -6742,7 +6342,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">345</context>
+          <context context-type="linenumber">341</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/register/user-account-registration-dialog/user-account-registration-dialog.html</context>
@@ -6830,7 +6430,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">347</context>
+          <context context-type="linenumber">343</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/i18n.ts</context>
@@ -6973,7 +6573,7 @@
           <context context-type="linenumber">280</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3528767106831563012" datatype="html">
+      <trans-unit id="9127586088599487049" datatype="html">
         <source>Portfolio is a lightweight wealth management application for individuals to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.</source>
         <target state="translated">Portfolio는 개인이 주식, ETF 또는 암호화폐를 추적하고 확실한 데이터 기반 투자 결정을 내릴 수 있는 경량 자산 관리 애플리케이션입니다.</target>
         <context-group purpose="location">
@@ -6989,7 +6589,7 @@
           <context context-type="linenumber">174</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7522916136412124285" datatype="html">
+      <trans-unit id="3497560488586247149" datatype="html">
         <source>to use our referral link and get a Portfolio Premium membership for one year</source>
         <target state="translated">추천 링크를 사용하고 1년 동안 Portfolio 프리미엄 멤버십을 얻으려면</target>
         <context-group purpose="location">
@@ -7142,7 +6742,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/resources/resources-page.component.ts</context>
-          <context context-type="linenumber">45</context>
+          <context context-type="linenumber">44</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/common/src/lib/routes/routes.ts</context>
@@ -7171,7 +6771,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/resources/resources-page.component.ts</context>
-          <context context-type="linenumber">34</context>
+          <context context-type="linenumber">33</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/common/src/lib/routes/routes.ts</context>
@@ -7199,7 +6799,7 @@
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5806117524908922510" datatype="html">
+      <trans-unit id="6927569064897504855" datatype="html">
         <source>Portfolio X-ray uses static analysis to uncover potential issues and risks in your portfolio. Adjust the rules below and set custom thresholds to align with your personal investment strategy.</source>
         <target state="translated">Portfolio X-ray는 정적 분석을 사용하여 포트폴리오의 잠재적인 문제와 위험을 찾아냅니다. 아래 규칙을 조정하고 개인 투자 전략에 맞게 맞춤 임계값을 설정하세요.</target>
         <context-group purpose="location">
@@ -7207,7 +6807,7 @@
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="1486033335993102285" datatype="html">
+      <trans-unit id="3643411064583035077" datatype="html">
         <source>Please enter your Portfolio API key:</source>
         <target state="translated">Portfolio API 키를 입력하세요:</target>
         <context-group purpose="location">
@@ -7248,8 +6848,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="2224199164108745234" datatype="html">
-        <source>Generate Portfolio Premium Data Provider API key for self-hosted environments...</source>
-        <target state="translated">자체 호스팅 환경을 위한 Portfolio 프리미엄 데이터 공급자 API 키 생성...</target>
+        <source>Generate Ghostfolio Premium Data Provider API key for self-hosted environments...</source>
+        <target state="new">자체 호스팅 환경을 위한 Portfolio 프리미엄 데이터 공급자 API 키 생성...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/membership-card/membership-card.component.html</context>
           <context context-type="linenumber">29</context>
@@ -7292,8 +6892,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7954609080122968528" datatype="html">
-        <source>Portfolio Premium Data Provider API Key</source>
-        <target state="translated">Portfolio 프리미엄 데이터 공급자 API 키</target>
+        <source>Ghostfolio Premium Data Provider API Key</source>
+        <target state="new">Portfolio 프리미엄 데이터 공급자 API 키</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/user-account-membership/user-account-membership.component.ts</context>
           <context context-type="linenumber">154</context>
@@ -7364,7 +6964,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/activities/create-or-update-activity-dialog/create-or-update-activity-dialog.html</context>
-          <context context-type="linenumber">356</context>
+          <context context-type="linenumber">352</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/historical-market-data-editor/historical-market-data-editor-dialog/historical-market-data-editor-dialog.html</context>
@@ -7392,14 +6992,14 @@
         <target state="translated">나</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">213</context>
+          <context context-type="linenumber">123</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/user-account-access/user-account-access.component.ts</context>
           <context context-type="linenumber">260</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4068738931505527681" datatype="html">
+      <trans-unit id="1643368168899817194" datatype="html">
         <source>Please enter your Portfolio API key.</source>
         <target state="translated">Portfolio API 키를 입력하세요.</target>
         <context-group purpose="location">
@@ -7477,6 +7077,14 @@
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/admin-market-data/asset-profile-dialog/asset-profile-dialog.html</context>
           <context context-type="linenumber">494</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4544920846129104717" datatype="html">
+        <source>RESEARCH PORTFOLIO</source>
+        <target state="new">RESEARCH PORTFOLIO</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
+          <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4547068148181074902" datatype="html">
@@ -7656,7 +7264,7 @@
         <target state="translated">계정, 보유 또는 페이지 찾기...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/ui/src/lib/assistant/assistant.component.ts</context>
-          <context context-type="linenumber">151</context>
+          <context context-type="linenumber">115</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8944214829054650479" datatype="html">
@@ -7690,10 +7298,6 @@
       <trans-unit id="2029980907058777630" datatype="html">
         <source>Terms of Service</source>
         <target state="translated">이용약관</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/components/footer/footer.component.html</context>
-          <context context-type="linenumber">62</context>
-        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">libs/common/src/lib/routes/routes.ts</context>
           <context context-type="linenumber">217</context>
@@ -7821,7 +7425,7 @@
         <target state="translated">로그아웃</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/header/header.component.html</context>
-          <context context-type="linenumber">329</context>
+          <context context-type="linenumber">187</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5323883986770878166" datatype="html">
@@ -7949,14 +7553,6 @@
         <source>Live Demo</source>
         <target state="translated">라이브 데모</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">48</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">apps/client/src/app/pages/landing/landing-page.html</context>
-          <context context-type="linenumber">349</context>
-        </context-group>
-        <context-group purpose="location">
           <context context-type="sourcefile">libs/common/src/lib/routes/routes.ts</context>
           <context context-type="linenumber">231</context>
         </context-group>
@@ -8031,7 +7627,7 @@
           <context context-type="linenumber">27</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2813275520458225294" datatype="html">
+      <trans-unit id="6341707454198359921" datatype="html">
         <source>Fuel your <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>self-hosted Portfolio<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> with a <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>powerful data provider<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> to access <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>80,000+ tickers<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> from over <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>50 exchanges<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> worldwide.</source>
         <target state="translated"><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>자체 호스팅 Portfolio<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>를 <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>강력한 데이터 제공업체<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>와 함께 활용하여 전 세계 <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>50개 이상의 거래소<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>에서 <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>80,000개 이상의 시세<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>에 액세스하세요.</target>
         <context-group purpose="location">
@@ -8104,7 +7700,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/admin/admin-page.component.ts</context>
-          <context context-type="linenumber">56</context>
+          <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit>
       <trans-unit id="rule.accountClusterRiskCurrentInvestment" datatype="html">
@@ -8264,9 +7860,9 @@
           <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5199695670214400859" datatype="html">
-        <source>If you encounter a bug, would like to suggest an improvement or a new <x id="START_LINK" ctype="x-a" equiv-text="&lt;a [routerLink]=&quot;routerLinkFeatures&quot;&gt;"/>feature<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/>, please join the Portfolio <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://pizzaforex.app&quot; title=&quot;Join our community&quot; &gt;"/>Slack<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/> community, post to <x id="START_LINK_2" equiv-text="&lt;a href=&quot;https://x.com/pizzaforex&quot; title=&quot;Follow us on X&quot; &gt;"/>@pizzaforex<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/></source>
-        <target state="translated">버그가 발생하거나 개선 사항이나 새로운 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a [routerLink]=&quot;routerLinkFeatures&quot;&gt;"/>기능<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/>을 제안하고 싶다면 Portfolio <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://pizzaforex.app&quot; title=&quot;Join our community&quot; &gt;"/>슬랙<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/> 커뮤니티에 가입하고 <x id="START_LINK_2" equiv-text="&lt;a href=&quot;https://x.com/pizzaforex&quot; title=&quot;Follow us on X&quot; &gt;"/>@pizzaforex<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/>에 게시하세요.</target>
+      <trans-unit id="6346975165161728668" datatype="html">
+        <source>If you encounter a bug, would like to suggest an improvement or a new <x id="START_LINK" ctype="x-a" equiv-text="&lt;a [routerLink]=&quot;routerLinkFeatures&quot;&gt;"/>feature<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/>, please join the Ghostfolio <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://pizzaforex.app&quot; title=&quot;Join our community&quot; &gt;"/>Slack<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/> community, post to <x id="START_LINK_2" equiv-text="&lt;a href=&quot;https://x.com/pizzaforex&quot; title=&quot;Follow us on X&quot; &gt;"/>@pizzaforex<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/></source>
+        <target state="new">버그가 발생하거나 개선 사항이나 새로운 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a [routerLink]=&quot;routerLinkFeatures&quot;&gt;"/>기능<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/>을 제안하고 싶다면 Portfolio <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://pizzaforex.app&quot; title=&quot;Join our community&quot; &gt;"/>슬랙<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/> 커뮤니티에 가입하고 <x id="START_LINK_2" equiv-text="&lt;a href=&quot;https://x.com/pizzaforex&quot; title=&quot;Follow us on X&quot; &gt;"/>@pizzaforex<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a &gt;"/>에 게시하세요.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/about/overview/about-overview-page.html</context>
           <context context-type="linenumber">69</context>
@@ -8693,14 +8289,14 @@
         </context-group>
       </trans-unit>
       <trans-unit id="1184917049575486230" datatype="html">
-        <source>Support Portfolio</source>
-        <target state="translated">고스트폴리오 지원</target>
+        <source>Support Ghostfolio</source>
+        <target state="new">고스트폴리오 지원</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/about/overview/about-overview-page.html</context>
           <context context-type="linenumber">166</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2305116864852661861" datatype="html">
+      <trans-unit id="8232819471410637357" datatype="html">
         <source>Find Portfolio on GitHub</source>
         <target state="translated">깃허브에서 Portfolio 찾기</target>
         <context-group purpose="location">
@@ -8713,8 +8309,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4170353658096790081" datatype="html">
-        <source>Portfolio is an independent &amp; bootstrapped business</source>
-        <target state="translated">Portfolio는 독립적이고 부트스트랩된 사업입니다.</target>
+        <source>Ghostfolio is an independent &amp; bootstrapped business</source>
+        <target state="new">Portfolio는 독립적이고 부트스트랩된 사업입니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/about/overview/about-overview-page.html</context>
           <context context-type="linenumber">157</context>
@@ -8740,7 +8336,7 @@
           <context context-type="linenumber">45</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5606994816647505945" datatype="html">
+      <trans-unit id="172238156628557942" datatype="html">
         <source>Join our community</source>
         <target state="translated">Portfolio 슬랙 커뮤니티에 참여하세요</target>
         <context-group purpose="location">
@@ -8748,7 +8344,7 @@
           <context context-type="linenumber">109</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5162138648470294706" datatype="html">
+      <trans-unit id="6521390578290591953" datatype="html">
         <source>Follow Portfolio on LinkedIn</source>
         <target state="translated">LinkedIn에서 Portfolio를 팔로우하세요.</target>
         <context-group purpose="location">
@@ -8756,7 +8352,7 @@
           <context context-type="linenumber">147</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2555424753565986929" datatype="html">
+      <trans-unit id="5767270633535830310" datatype="html">
         <source>Follow Portfolio on X (formerly Twitter)</source>
         <target state="translated">X(이전의 Twitter)에서 Portfolio를 팔로우하세요.</target>
         <context-group purpose="location">
