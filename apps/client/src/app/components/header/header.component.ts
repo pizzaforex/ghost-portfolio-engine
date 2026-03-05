@@ -116,11 +116,13 @@ export class GfHeaderComponent implements OnChanges {
   public internalRoutes = internalRoutes;
   public isMenuOpen: boolean;
   public routeAbout = publicRoutes.about.path;
+  public routeBlog = publicRoutes.blog.path;
   public routeFeatures = publicRoutes.features.path;
   public routeMarkets = publicRoutes.markets.path;
   public routePricing = publicRoutes.pricing.path;
   public routeResources = publicRoutes.resources.path;
   public routerLinkAbout = publicRoutes.about.routerLink;
+  public routerLinkBlog = publicRoutes.blog.routerLink;
   public routerLinkAccount = internalRoutes.account.routerLink;
   public routerLinkAccounts = internalRoutes.accounts.routerLink;
   public routerLinkAdminControl = internalRoutes.adminControl.routerLink;

@@ -50,6 +50,12 @@
             'text-decoration-underline': currentRoute === routeResources
           }" [routerLink]="routerLinkResources">Resources</a>
     </li>
+    <li class="list-inline-item">
+      <a class="d-none d-sm-block" i18n mat-flat-button [ngClass]="{
+            'font-weight-bold': currentRoute === routeBlog,
+            'text-decoration-underline': currentRoute === routeBlog
+          }" [routerLink]="routerLinkBlog">Blog</a>
+    </li>
     @if (
     hasPermissionForSubscription && user?.subscription?.type === 'Basic'
     ) {
@@ -148,7 +154,7 @@
             }" [routerLink]="routerLinkAccounts">Accounts</a>
         <a i18n mat-menu-item [ngClass]="{
               'font-weight-bold': currentRoute === internalRoutes.account.path
-            }" [routerLink]="routerLinkAccount">My Ghostfolio</a>
+            }" [routerLink]="routerLinkAccount">My Portfolio</a>
         @if (hasPermissionToAccessAdminControl) {
         <a class="d-flex d-sm-none" i18n mat-menu-item [ngClass]="{
                 'font-weight-bold':
@@ -159,6 +165,9 @@
         <a class="d-flex d-sm-none" i18n mat-menu-item [ngClass]="{
               'font-weight-bold': currentRoute === routeResources
             }" [routerLink]="routerLinkResources">Resources</a>
+        <a class="d-flex d-sm-none" i18n mat-menu-item [ngClass]="{
+              'font-weight-bold': currentRoute === routeBlog
+            }" [routerLink]="routerLinkBlog">Blog</a>
         @if (
         hasPermissionForSubscription && user?.subscription?.type === 'Basic'
         ) {
@@ -173,7 +182,7 @@
         </a>
         }
         <a class="d-flex d-sm-none" i18n mat-menu-item [ngClass]="{ 'font-weight-bold': currentRoute === routeAbout }"
-          [routerLink]="routerLinkAbout">About Ghostfolio</a>
+          [routerLink]="routerLinkAbout">About Portfolio</a>
         <hr class="d-flex d-sm-none m-0" />
         <button i18n mat-menu-item (click)="onSignOut()">Log out</button>
       </mat-menu>

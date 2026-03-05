@@ -1,11 +1,11 @@
-This Terms of Service Agreement (hereinafter referred to as the "Agreement") is a legally binding contract between you (hereinafter referred to as the "User" or "You") and Ghostfolio LLC (hereinafter referred to as "LICENSEE") governing your use of the web application and the application programming interface (API) (hereinafter referred to as the "Service") provided by LICENSEE. By either accessing or using the Service, or by downloading data provided by the Service, you agree to be bound by the terms and conditions of this Agreement. If you do not agree to these terms, please do not access or use the Service.
+This Terms of Service Agreement (hereinafter referred to as the "Agreement") is a legally binding contract between you (hereinafter referred to as the "User" or "You") and Portfolio LLC (hereinafter referred to as "LICENSEE") governing your use of the web application and the application programming interface (API) (hereinafter referred to as the "Service") provided by LICENSEE. By either accessing or using the Service, or by downloading data provided by the Service, you agree to be bound by the terms and conditions of this Agreement. If you do not agree to these terms, please do not access or use the Service.
 
 ## Definitions
 
 <ol type="a">
   <li>"Service" refers to the services provided by LICENSEE, including, but not limited to, the web application, the application programming interface (API), and the provision of financial market data.</li>
   <li>"User" refers to any individual or entity that either accesses or uses the Service, or downloads data provided by the Service.</li>
-  <li>"LICENSEE" refers to Ghostfolio LLC, the provider of the Service.</li>
+  <li>"LICENSEE" refers to Portfolio LLC, the provider of the Service.</li>
 </ol>
 
 ## License Grant
@@ -53,6 +53,6 @@ LICENSEE reserves the right to modify this Agreement at any time. Users are enco
 
 By accessing or using the Service, or downloading data provided by the Service, the User acknowledges that they have read, understood, and agreed to be bound by this Terms of Service Agreement.
 
-For any questions or concerns regarding this Agreement, please contact us [here](https://ghostfol.io/en/about).
+For any questions or concerns regarding this Agreement, please contact us [here](https://pizzaforex.app/en/about).
 
 Date of Last Revision: March 29, 2025

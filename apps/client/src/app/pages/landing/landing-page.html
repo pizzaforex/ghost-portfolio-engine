@@ -10,20 +10,14 @@
         Private Intelligence & Wealth Mapping Dashboard.
       </p>
 
-      <div class="button-container mb-5 row mt-4">
-        <div class="align-items-center col d-flex justify-content-center">
-          @if (hasPermissionToCreateUser) {
-          <a color="primary" i18n mat-flat-button [routerLink]="routerLinkRegister"
-            style="padding: 24px 36px; border-radius: 50px; font-weight: 600;">Get Started</a>
-          }
-          @if (hasPermissionForDemo) {
-          @if (hasPermissionToCreateUser) {
-          <div class="mx-4 text-muted" i18n>or</div>
-          }
-          <a i18n mat-stroked-button [routerLink]="routerLinkDemo"
-            style="padding: 24px 36px; border-radius: 50px; border-color: rgba(255,255,255,0.15);">Live Demo</a>
-          }
-        </div>
+      <div class="button-container mb-5 mt-4 d-flex justify-content-center align-items-center flex-wrap"
+        style="gap: 1.5rem;">
+        <a class="btn-gradient" mat-flat-button [routerLink]="['/auth']"
+          style="padding: 24px 36px; border-radius: 50px; font-weight: 600; font-size: 1.1rem; min-width: 180px; border: none; color: white;"
+          i18n>Sign in</a>
+        <a mat-stroked-button [routerLink]="routerLinkDemo"
+          style="padding: 24px 36px; border-radius: 50px; border-color: rgba(255,255,255,0.15); font-size: 1.1rem; min-width: 180px;"
+          i18n>Features</a>
       </div>
     </div>
   </div>

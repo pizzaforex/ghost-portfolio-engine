@@ -16,4 +16,4 @@ Disallow: /pricing/*
 Disallow: /register/*
 Disallow: /resources/*
 
-Sitemap: https://ghostfol.io/sitemap.xml
+Sitemap: https://pizzaforex.app/sitemap.xml

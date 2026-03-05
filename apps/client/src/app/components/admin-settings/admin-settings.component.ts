@@ -101,7 +101,7 @@ export class GfAdminSettingsComponent implements OnDestroy, OnInit {
 
           const languageCode = this.user.settings.language;
 
-          this.pricingUrl = `https://ghostfol.io/${languageCode}/${publicRoutes.pricing.path}`;
+          this.pricingUrl = `https://pizzaforex.app/${languageCode}/${publicRoutes.pricing.path}`;
 
           this.changeDetectorRef.markForCheck();
         }
@@ -143,7 +143,7 @@ export class GfAdminSettingsComponent implements OnDestroy, OnInit {
             });
         }
       },
-      title: $localize`Please enter your Ghostfolio API key.`
+      title: $localize`Please enter your Portfolio API key.`
     });
   }
 

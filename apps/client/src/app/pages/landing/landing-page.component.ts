@@ -100,9 +100,9 @@ export class GfLandingPageComponent implements OnDestroy, OnInit {
     },
     {
       author: 'Thomas',
-      country: 'Creator of Ghostfolio, Switzerland 🇨🇭',
+      country: 'Creator of Portfolio, Switzerland 🇨🇭',
       quote:
-        'My investment strategy has become more structured through the daily use of Ghostfolio.',
+        'My investment strategy has become more structured through the daily use of Portfolio.',
       url: 'https://dotsilver.ch'
     }
   ];
